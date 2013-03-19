@@ -1,0 +1,7 @@
+Misc stuff for making linux work on the Sony Vaio VPCCA4C5E.
+
+#dsdt
+Dump of the DSDT and a 'fixed' version.
+
+#fn-keys
+All the scancodes / keycodes / simkeys for easy mapping from whereever you want.

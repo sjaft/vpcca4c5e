@@ -1,0 +1,18 @@
+	scanc	keycode		kb-key	keycxev	keysymxev		showkey	keysim
+
+event0
+	0xB2	homepage	Web	180	XF86HomePage		172	0x1008ff18
+	0xA0   	mute 		Fn+F2	121	XF86AudioMute		113	0x1008ff12
+	0xAE   	volumedown	Fn+F3	122	XF86AudioLowerVolume	114	0x1008ff11
+	0xB0   	volumeup	Fn+F4	123	XF86AudioRaiseVolume	115	0x1008ff13
+
+event2
+	0x1F   	help		Assist	146	Help			138	0xff6a
+	0x3B   	vendor		Vaio	-	-			360	
+	0x05   	f21		Fn+F1	199	XF86TouchpadToggle	191	0x1008ffa9
+	0x09   	brightnessdown	Fn+F5	232	XF86MonBrightnessDown	224	0x1008ff03
+	0x0A   	brightnessup	Fn+F6	233	XF86MonBrightnessUp	225	0x1008ff02
+	0x0B   	switchvideomode	Fn+F7	235	XF86Display		227	0x1008ff59
+	0x0D   	zoomout		Fn+F9	-	-			419
+	0x0E   	zoomin		Fn+F10 	-	-			418
+	0x10   	suspend		Fn+F12	213	XF86Suspend		205	0x1008ffa7	
